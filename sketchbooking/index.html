@@ -1,0 +1,20 @@
+---
+layout: works
+title: Édouard U. - Sketchbooking
+permalink: /sketchbooking/
+---
+<article class="ma4 mh7-ns mv5-ns ph2-l">
+  <p class="lh-copy f3 arial i">SKETCHBOOKING</p>
+
+  <p class="lh-copy f3">
+    As time presses forward, it's fun to revisit the many scribbled-in sketchbooks and looseleaf papers I've collected over the years and see old ideas and notes that might have been worth recording. Everyone who draws in a serious manner has their own philosophy as to why they draw the way they do, or why the draw in the first place,
+  </p>
+
+  {% for feature in site.data.sketchbooks %}
+  <p class="lh-copy f3 serif">{{ feature.name }}</p>
+  <a href="{{ feature.link }}" class="link green pb1">
+    <img src="{{ feature.cover }}" class="w-100">
+  </a>
+  {% endfor %}
+
+</article>
