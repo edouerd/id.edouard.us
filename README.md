@@ -1,11 +1,11 @@
-##### id.edouard.us
-###### A personal web site re: my industrial design practice
+##### ux.edouard.us
+###### A personal web site re: my digital product design practice
 
 —
 
 Hi!
 
-This is the source for [id.edouard.us](http://id.edouard.us/), which a facet of my main presence, [edouard.us](https://edouard.us/). Breaking up presentation in this manner allows me to distinctly display subsets of my practice in a way that best suits them, I believe. This site was built with [Jekyons](https://tinychime.github.io/jekyons/), my favorite way (so far) to rapidly stand up a static website.
+This is the source for [ux.edouard.us](http://ux.edouard.us/), which a facet of my main presence, [edouard.us](https://edouard.us/). Breaking up presentation in this manner allows me to distinctly display subsets of my practice in a way that best suits them, I believe. This site was built with [Jekyons](https://tinychime.github.io/jekyons/), my favorite way (so far) to rapidly stand up a static website.
 
 —
 

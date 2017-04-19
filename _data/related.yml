@@ -1,0 +1,24 @@
+- name:
+  link:
+  description:
+  img-link:
+  ratio: 1x1
+  display: dt
+
+- name:
+  link: /future
+  description: ""
+  img-link: images/fw.svg
+  ratio: 1x1
+
+- name:
+  link: /sketchbooking
+  description: ""
+  img-link: images/sb.svg
+  ratio: 3x4
+
+- name:
+  link: /momm
+  description: ""
+  img-link: images/momm.svg
+  ratio: 4x3
