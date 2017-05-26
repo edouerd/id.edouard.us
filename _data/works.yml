@@ -1,0 +1,37 @@
+- name: On Mobility
+  link: /on-mobility
+  description: ""
+  img-link: images/f-thesis-0.jpg
+  ratio: 4x3
+  display: dt
+
+- name:
+  description:
+  ratio: 4x3
+  display: dt
+
+- name:
+  description:
+  ratio: 1x1
+  noshow: dn
+  display: dn
+
+- name: 2012
+  link: /2012
+  description: ""
+  img-link: images/duster-hand.jpg
+  ratio: 1x1
+  display: dt
+
+- name:
+  description:
+  noshow: dn
+  ratio: 1x1
+  display: dn
+
+- name: 2012
+  link: /2012
+  description: ""
+  img-link: images/baster-exploded.jpg
+  ratio: 1x1
+  display: dt
